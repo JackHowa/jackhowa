@@ -4,3 +4,5 @@
 - ☕ &nbsp; My favorite tea at the moment: T2's Black Rose
 - 📻 &nbsp; Ask me about radio dramas
 - 😄 &nbsp; Pronouns: he/him
+
+![](https://komarev.com/ghpvc/?username=jackhowa&color=133033)
