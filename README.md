@@ -1,7 +1,7 @@
 # Hey There
 
-- 📰 &nbsp; I work as a senior software engineer at The Washington Post's Arc XP platform
-- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: Narcissa
+- 📰 &nbsp; I work as a senior software engineer at [Expel](https://expel.com)
+- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [Borrasca](https://qcodemedia.com/borrasca)
 - 😄 &nbsp; Pronouns: he/him
 
 ## Experience :zap:
