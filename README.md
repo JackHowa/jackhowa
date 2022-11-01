@@ -1,14 +1,18 @@
 # Hey There
 
-- 📰 &nbsp; I work as a senior software engineer at The Washington Post's Arc XP platform
+- 📰 &nbsp; I work as a senior software engineer at Expel
 - 📻 &nbsp; Ask me about radio dramas. What I'm listening to: Narcissa
 - 😄 &nbsp; Pronouns: he/him
 
 ## Experience :zap:
 
+### Senior Software Engineer
+**Expel**
+*Oct 2022 - Present*
+
 ### Senior Full Stack Software Engineer
 **Arc XP**
-*Jan 2022 - Present*
+*Jan 2022 - October 2022*
 * Pair-program with peers and junior developers. 
 * Architect design system with documentation and tutorials for best practices. 
 * Maintain and document ownership of previous responsibilities.
