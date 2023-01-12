@@ -60,7 +60,6 @@
 
 | | |
 |:----:|:---:|
-|:link: | [LinkedIn](https://www.linkedin.com/in/jackhowa/)|
 |:incoming_envelope: | [jackhowa@fastmail.com](mailto:jackhowa@fastmail)|
 |:octocat: | [jackhowa](https://github.com/jackhowa/)|
 
