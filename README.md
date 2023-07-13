@@ -1,7 +1,7 @@
 # Hey There
 
 - 📰 &nbsp; I work as a senior software engineer at Expel
-- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [How To Win Friends and Disappear People](https://qcodemedia.com/how-to-win-friends-and-disappear-people)
+- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [Hidden Signal: Evergreen](https://podcasts.apple.com/us/podcast/hidden-signal-evergreen/id1686664028?i=1000614201081)
 - 😄 &nbsp; Pronouns: he/him
 
 ## Experience :zap:
