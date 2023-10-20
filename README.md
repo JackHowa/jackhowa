@@ -1,7 +1,7 @@
 # Hey There
 
 - 📰 &nbsp; I work as a senior software engineer at Expel
-- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [Hidden Signal: Evergreen](https://podcasts.apple.com/us/podcast/hidden-signal-evergreen/id1686664028?i=1000614201081)
+- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [Aftershock](https://podcasts.apple.com/us/podcast/aftershock/id1573594705)
 - 😄 &nbsp; Pronouns: he/him
 
 ## Experience :zap:
