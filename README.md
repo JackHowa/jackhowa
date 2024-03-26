@@ -1,14 +1,18 @@
 # Hey There
 
-- 📰 &nbsp; I work as a senior software engineer at Expel
-- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [Aftershock](https://podcasts.apple.com/us/podcast/aftershock/id1573594705)
+- 📰 &nbsp; I work as a principal software engineer at Expel
+- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [The Last City](https://podcasts.apple.com/us/podcast/the-last-city/id1732327043)
 - 😄 &nbsp; Pronouns: he/him
 
 ## Experience :zap:
 
+### Principal Software Engineer
+**Expel**
+*Feb 2024 - Present*
+
 ### Senior Software Engineer
 **Expel**
-*Oct 2022 - Present*
+*Oct 2022 - Feb 2024*
 
 ### Senior Full Stack Software Engineer
 **Arc XP**
