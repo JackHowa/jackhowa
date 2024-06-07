@@ -4,7 +4,7 @@
 - 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [The Last City](https://podcasts.apple.com/us/podcast/the-last-city/id1732327043)
 - 😄 &nbsp; Pronouns: he/him
 
-## Experience :zap:
+## :zap: Experience
 
 ### Principal Software Engineer
 
@@ -69,7 +69,7 @@ automated builds, deployments and tests
 
 - Created cutting-edge solutions for start-ups with React
 
-## Education :books:
+## :books: Education
 
 ### Dev Bootcamp
 
