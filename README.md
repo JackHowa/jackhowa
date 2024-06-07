@@ -13,6 +13,7 @@
 ### Senior Software Engineer
 **Expel**
 *Oct 2022 - Feb 2024*
+* Create and maintain a themeable design system with React and TypeScript, along with TS-In-CSS style library Vanilla Extract- Create and maintain a themeable design system with React and TypeScript, along with TS-In-CSS style library Vanilla Extract
 
 ### Senior Full Stack Software Engineer
 **Arc XP**
