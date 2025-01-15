@@ -1,7 +1,7 @@
 # Hey There
 
 - 📰 &nbsp; I work as a principal software engineer at Expel
-- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: <a rel="noreferrer" href="https://www.audible.com/pd/The-Mysterious-Affair-at-Styles-Audiobook/B0DJC1T9VG" target="_blank">The Mysterious Affair At Styles</a>
+- 📻 &nbsp; Ask me about radio dramas. What I'm listening to: [The Mysterious Affair At Styles](https://www.audible.com/pd/The-Mysterious-Affair-at-Styles-Audiobook/B0DJC1T9VG)
 - 😄 &nbsp; Pronouns: he/him
 
 ## :zap: Experience
