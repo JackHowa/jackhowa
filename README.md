@@ -86,7 +86,6 @@ automated builds, deployments and tests
 
 | | |
 |:----:|:---:|
-|:incoming_envelope: Email | [jackhowa@fastmail.com](mailto:jackhowa@fastmail)|
 |:octocat: GitHub | [jackhowa](https://github.com/jackhowa/)|
 
 :us: U.S. Citizen
