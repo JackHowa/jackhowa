@@ -7,10 +7,15 @@
 
 ## :zap: Experience
 
+### Software Architect 
+
+**Expel**
+*Oct 2026 - Present*
+
 ### Principal Software Engineer
 
 **Expel**
-*Feb 2024 - Present*
+*Feb 2024 - Oct 2026*
 
 ### Senior Software Engineer
 
