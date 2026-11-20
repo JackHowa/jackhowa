@@ -7,7 +7,7 @@
 
 ## :zap: Experience
 
-### Software Architect 
+### Software Architect
 
 **Expel**
 *Oct 2026 - Present*
